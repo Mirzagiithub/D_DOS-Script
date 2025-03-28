@@ -1,5 +1,3 @@
-Below is a redesigned and visually appealing version of your GitHub README for the DDoS Attack Script. I've enhanced the formatting with Markdown elements, added badges, and improved the overall structure for a polished look. This design assumes your GitHub username is Mirzagiithub and the repo name is D_DOS-Script—feel free to adjust these details!
-
 <div align="center"> <img src="https://img.shields.io/badge/Python-3.9.5-blue?style=for-the-badge&logo=python" alt="Python Version"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"> <img src="https://img.shields.io/github/stars/Mirzagiithub/D_DOS-Script?style=for-the-badge" alt="Stars"> <br><br> <h1>💥 D-DOS Attack Script 💥</h1> <p>A CLI-based Python script for simulating Distributed Denial of Service (DDoS) attacks on public IPs or domains.</p> <p><strong>Made with Python 3.9.5</strong></p> </div>
 🚀 Usage
 Launch a Distributed Denial of Service (DDoS) attack simulation.
