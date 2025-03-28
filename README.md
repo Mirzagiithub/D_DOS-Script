@@ -16,87 +16,33 @@ animation
 art
 🛠️ Installation
 Clone the Repository
-bash
 
-Collapse
-
-Wrap
-
-Copy
 git clone https://github.com/Mirzagiithub/D_DOS-Script.git
 cd D_DOS-Script
 Or Download Directly
 📥 Download ZIP
 
-For Linux 🐧
+## For Linux 🐧
 Install Dependencies
-bash
+## pip3 install requests colorama tabulate animation art
 
-Collapse
-
-Wrap
-
-Copy
-pip3 install requests colorama tabulate animation art
-Or:
-bash
-
-Collapse
-
-Wrap
-
-Copy
 pip3 install -r requirements.txt
 Single-Line Setup
-bash
 
-Collapse
 
-Wrap
-
-Copy
 git clone https://github.com/Mirzagiithub/D_DOS-Script.git && cd D_DOS-Script && pip3 install -r requirements.txt
 Run the Script
-bash
 
-Collapse
-
-Wrap
-
-Copy
 python3 script.py
-For Windows 🖥️
+## For Windows 🖥️
 Install Dependencies
 
-bash
-
-Collapse
-
-Wrap
-
-Copy
 pip install requests colorama tabulate animation art
 Or:
-
-bash
-
-Collapse
-
-Wrap
-
-Copy
 pip install -r requirements.txt
 Run the Script
-
-bash
-
-Collapse
-
-Wrap
-
-Copy
 python script.py
-Note: Use PowerShell instead of CMD for colored output support.
+## Note: Use PowerShell instead of CMD for colored output support.
 
 📸 Screenshots
 (Add your screenshots here with <img src="path/to/screenshot.png" width="600">)
@@ -105,14 +51,14 @@ Example placeholders:
 
 <img src="screenshots/demo1.png" width="600" alt="Script running">
 <img src="screenshots/demo2.png" width="600" alt="Attack in progress">
-⚠️ Conclusion & Warnings
+## ⚠️ Conclusion & Warnings
 Virus Detection: Some antivirus software may flag this script. Check the before use if concerned.
 IP Visibility: Your public IP is exposed. Use a proxy or Tor for anonymity.
 Legal Responsibility: Users must comply with all applicable laws. Unauthorized use is illegal.
 <div align="center"> <h3>✌️ Peace Out ✌️</h3> <p>Built for educational purposes only.</p> <p><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Website-yellow?style=flat-square&logo=python" alt="Python"></a> <a href="https://www.microsoft.com/en-in/software-download/windows10"><img src="https://img.shields.io/badge/Windows-Download-blue?style=flat-square&logo=windows" alt="Windows"></a> <a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-Download-orange?style=flat-square&logo=linux" alt="Linux"></a></p> </div>
-Design Enhancements:
+## Design Enhancements:
 Badges: Added Python version, license, and GitHub stars badges for a professional touch.
-Emojis: Used relevant emojis to make sections pop and improve readability.
+## Emojis: Used relevant emojis to make sections pop and improve readability.
 Centered Header: A bold, centered title with ASCII-like flair using 💥.
 Code Blocks: Cleanly formatted commands with syntax highlighting.
 Visual Hierarchy: Clear separation of sections with headers and horizontal lines.
